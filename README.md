@@ -9,8 +9,7 @@ The purpose of this project is to demonstrate how to build a fully functional To
 
 
 🔗 GitHub Repository
-https://github.com/Manoj-Gmk/react-todo-list
-(Replace the link above with your actual GitHub repo once uploaded)
+https://github.com/Manoj-Gmk/react-todo-app.git
 
 🛠️ Tech Stack
 React
@@ -26,7 +25,7 @@ Vite (Optional - depending on your setup)
 📁 Project Setup
 
 # 1. Clone the repository
-git clone https://github.com/Manoj-Gmk/react-todo-list.git
+https://github.com/Manoj-Gmk/react-todo-app.git
 
 # 2. Navigate to the project directory
 cd react-todo-list
