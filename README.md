@@ -57,7 +57,9 @@ Visit: http://localhost:5173
 
 ## 🙋‍♂️ Author
 Name: Manoj
+
 Role: Frontend Developer (Fresher)
+
 GitHub: https://github.com/Manoj-Gmk
 
 🌟 Thank You for Visiting!
