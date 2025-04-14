@@ -1,17 +1,18 @@
-#📝 Todo List App
+## 📝 Todo List App
+
 This is a simple and user-friendly Todo List Web Application built using React. It allows users to add, edit, and delete tasks with a clean and responsive UI.
 
-🚀 Project Purpose
+## 🚀 Project Purpose
 The purpose of this project is to demonstrate how to build a fully functional Todo app using React. It showcases usage of core React features such as state management, conditional rendering, and component communication via props.
 
-📸 Screenshots
+## 📸 Screenshots
 [Todo App UI Screenshot](./Screenshot/todo-screenshot.png)
 
 
-🔗 GitHub Repository
+## 🔗 GitHub Repository
 https://github.com/Manoj-Gmk/react-todo-app.git
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 React
 
 HTML5
@@ -22,7 +23,7 @@ JavaScript (ES6+)
 
 Vite (Optional - depending on your setup)
 
-📁 Project Setup
+## 📁 Project Setup
 
 # 1. Clone the repository
 https://github.com/Manoj-Gmk/react-todo-app.git
@@ -39,7 +40,7 @@ npm run dev
 # 5. Open in your browser
 Visit: http://localhost:5173
 
-🧠 Features
+## 🧠 Features
 
 ✅ Add tasks using a text input.
 
@@ -54,7 +55,7 @@ Visit: http://localhost:5173
 🎨 Clean and responsive UI with professional styling.
 
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Name: Manoj
 Role: Frontend Developer (Fresher)
 GitHub: https://github.com/Manoj-Gmk
