@@ -1,0 +1,117 @@
+body {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  background-color: whitesmoke;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  padding: 30px 25px;
+  transition: transform 0.2s;
+  width: 100%;
+  max-width: 500px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.form input {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #aaa;
+  border-radius: 5px;
+  width: calc(100% - 160px);
+  max-width: 280px;
+}
+
+.form button {
+  background-color: rgb(220, 243, 235);
+  color: black;
+  font-weight: bold;
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.form button:hover {
+  background-color: aquamarine;
+}
+
+/* Todo List Styles */
+ol {
+  padding: 0;
+  list-style-position: inside;
+  margin-top: 30px;
+}
+
+li {
+  font-size: 18px;
+  font-weight: 500;
+  padding: 15px 10px;
+  margin-bottom: 10px;
+  border: 2px solid hsla(0, 0%, 85%, 0.75);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.text {
+  flex: 1;
+  text-align: left;
+}
+
+/* Delete Button */
+.deletebutton {
+  background-color: rgb(220, 243, 235);
+  color: black;
+  font-weight: bold;
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.deletebutton:hover {
+  background-color: aquamarine;
+}
+
+/* Edit Button */
+.editbutton {
+  background-color: rgb(220, 243, 235);
+  color: black;
+  font-weight: bold;
+  border: 1px solid black;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.editbutton:hover {
+  background-color: aquamarine;
+}
+
+
